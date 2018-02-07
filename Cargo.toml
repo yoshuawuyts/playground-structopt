@@ -1,0 +1,8 @@
+[package]
+name = "playground-structopt"
+version = "1.0.0"
+authors = ["Yoshua Wuyts <yoshuawuyts@gmail.com>"]
+
+[dependencies]
+structopt = "0.1.7"
+structopt-derive = "0.1.6"
